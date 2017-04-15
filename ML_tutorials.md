@@ -63,6 +63,7 @@
 
 - [An awesome Data Science repository to learn and apply for real world problems](https://github.com/okulbilisim/awesome-datascience)
 
+- [Roshan tutorial](https://www.youtube.com/watch?v=k890Dr5OkZg&list=PLRJx8WOUx5XdosSIpI34ijGVAxCSG_jjT)
 - [The Open Source Data Science Masters](http://datasciencemasters.org/)
 
 - [Machine Learning FAQs on Cross Validated](http://stats.stackexchange.com/questions/tagged/machine-learning)
